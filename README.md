@@ -20,7 +20,9 @@
 }
 ```
 :warning:
-```[YOUR_EMAIL_PASSWORD]``` 並不是信箱的密碼，需先取得 Gmail 應用程式密碼：
+```[YOUR_EMAIL_PASSWORD]``` 並不是信箱的密碼，是 Gmail 應用程式密碼。
+
+如何取得 Gmail 應用程式密碼：
 
 1. 進入寄件者的Google帳戶。
 1. 點擊左邊欄的安全性頁籤，接著設定兩步驟驗證。
