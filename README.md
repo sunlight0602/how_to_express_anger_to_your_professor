@@ -22,7 +22,15 @@
 :warning:
 ```[YOUR_EMAIL_PASSWORD]``` 並不是信箱的密碼，是 Gmail 應用程式密碼。
 
-如何取得 Gmail 應用程式密碼：[圖文教學](https://www.learncodewithmike.com/2020/02/python-email.html)
+3. Run the code in your terminal:
+```json=
+$ python main.py
+```
+
+
+## 如何取得 Gmail 應用程式密碼：
+
+[圖文教學](https://www.learncodewithmike.com/2020/02/python-email.html)
 
 1. 進入寄件者的Google帳戶。
 1. 點擊左邊欄的安全性頁籤，接著設定兩步驟驗證。
@@ -32,10 +40,7 @@
 1. 最後即可取得應用程式的密碼。
 
 
-3. Run the code in your terminal:
-```json=
-$ python main.py
-```
+
 
 ## Reference
 [Learn Code With Mike - [Python實戰應用]Python寄送Gmail電子郵件實作教學](https://www.learncodewithmike.com/2020/02/python-email.html)
